@@ -11,6 +11,11 @@
 //   int num2 = 12.3;
 //   print(num2);
 // }
+// Booleans: bool
+main() {
+  bool a = true;
+  print(a);
+}
 //  List
 // main() {
 //   var l1 = ['aaa', 20, true];
@@ -34,20 +39,20 @@
   
 // }
 //  Map
-main() {
-  var person = {
-    "name": 'lebron',
-    "age":12
-  };
-  print(person["name"]);
+// main() {
+//   var person = {
+//     "name": 'lebron',
+//     "age":12
+//   };
+//   print(person["name"]);
   
-  var map = new Map();
-  map["name"] = "kobe";
-  map["age"] = 23;
-  print(map);
-  if (person is Map) {
-    print('map');
-  } else {
-    print('else');
-  }
-}
+//   var map = new Map();
+//   map["name"] = "kobe";
+//   map["age"] = 23;
+//   print(map);
+//   if (person is Map) {
+//     print('map');
+//   } else {
+//     print('else');
+//   }
+// }

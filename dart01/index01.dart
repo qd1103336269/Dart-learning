@@ -24,8 +24,8 @@ main() {
   const ABS = 123;
   // ABS = 123
   print(ABS);
-  final age;
-  age = 23;
+  final age = 22;
+  // age = 23;
   print(age);
   // age = 34;
 

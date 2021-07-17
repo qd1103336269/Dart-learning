@@ -1,0 +1,6 @@
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+name: xx
+description: aaaaaaaaaaaaa
+dependencies:
+  http: ^0.13.3
